@@ -1,0 +1,2 @@
+Notes to remember
+I used jquery to create the nav menu
